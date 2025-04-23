@@ -26,9 +26,9 @@ This is a small academic project for the **Data Structures and Algorithms (DSA)*
 ## 🚀 How to Run
 
 ### Compile (using MSVC or g++)
-    ```bash
+
     cl /EHsc /std:c++20 main.cpp && main.exe
-    ```
+
 
 ## 🧪 Output
 
