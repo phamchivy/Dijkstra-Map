@@ -27,9 +27,7 @@ This is a small academic project for the **Data Structures and Algorithms (DSA)*
 
 ### Compile (using MSVC or g++)
     ```bash
-    cl /EHsc /std:c++20 main.cpp
-
-    main 
+    cl /EHsc /std:c++20 main.cpp && main.exe
     ```
 
 ## 🧪 Output
@@ -39,7 +37,7 @@ This is a small academic project for the **Data Structures and Algorithms (DSA)*
 
 ## 🛠 Dependencies
 
-- Standard C++ libraries only (<iostream>, <fstream>, <sstream>, <vector>, <unordered_map>, <queue>, <set>, <limits>)
+- Standard C++ libraries only (```<iostream>, <fstream>, <sstream>, <vector>, <unordered_map>, <queue>, <set>, <limits>```)
 
 ## 👨‍💻 Author
 
